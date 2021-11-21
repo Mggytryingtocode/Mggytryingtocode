@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mggytryingtocode
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently learning gd script 
+-
